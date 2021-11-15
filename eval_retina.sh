@@ -1,0 +1,1 @@
+python plain_train_net.py --eval-only --config-file ./configs/COCO-Detection/retinanet_R_50_FPN_3x.yaml

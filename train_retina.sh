@@ -1,0 +1,1 @@
+python plain_train_net.py --num-gpus 4 --config-file ./configs/COCO-Detection/retinanet_R_50_FPN_3x.yaml TEST.EVAL_PERIOD 5000 
