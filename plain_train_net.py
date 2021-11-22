@@ -53,9 +53,9 @@ from detectron2.evaluation import (
     print_csv_format,
 )
 
-from detectron2.modeling import build_model
+# from detectron2.modeling import build_model
 
-# from my_detectron.modeling import build_model
+from my_detectron.modeling import build_model
 from detectron2.solver import build_lr_scheduler, build_optimizer
 from detectron2.utils.events import EventStorage
 
